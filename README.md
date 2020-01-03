@@ -5,6 +5,7 @@
 This application features the ability to view the information about a [YouTube](https://www.youtube.com) video and download the video in .mp4 format or audio in .mp3 format.
 
 ![][image_screenshot]
+![index](https://user-images.githubusercontent.com/6654513/71703485-f872c380-2d91-11ea-89ea-9e30d46bdfe1.png)
 
 ## Application Compiling
 
